@@ -4,5 +4,6 @@ public class Me{
 		System.out.println("Serge Skaf");
 		System.out.println("19");
 		System.out.println("Mechatronics");
+		System.out.println("1st year");
 	}
 }
